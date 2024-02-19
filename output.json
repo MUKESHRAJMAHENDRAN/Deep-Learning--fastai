@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1000,
+        "filename": "/home/mukesh/data_image/sh.jpeg",
+        "label": "slippers",
+        "prediction": 3
+    },
+    {
+        "id": 1001,
+        "filename": "/home/mukesh/data_image/pht.jpg",
+        "label": "pants",
+        "prediction": 1
+    },
+    {
+        "id": 1002,
+        "filename": "/home/mukesh/data_image/a.jpg",
+        "label": "shirt",
+        "prediction": 2
+    },
+    {
+        "id": 1003,
+        "filename": "/home/mukesh/data_image/lg.jpeg",
+        "label": "leggings",
+        "prediction": 0
+    }
+]
